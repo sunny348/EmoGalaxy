@@ -9,12 +9,12 @@ A real-time emotion detection application that analyzes facial expressions using
 
 ### Team Members
 
-| Name | Roll Number |
-|---|---|
-| Sanpreet Singh | 2210990790 |
-| Sanidhya Chauhan | 2210990786 |
-| Sai Madhav Bhalla | 2210990760 |
-| Sambhav Yadav | 2210990774 |
+| Name | Roll Number | Email |
+|---|---|---|
+| Sanpreet Singh | 2210990790 | sanpreet790.be22@chitkara.edu.in |
+| Sanidhya Chauhan | 2210990786 | sanidhya786.be22@chitkara.edu.in |
+| Sai Madhav Bhalla | 2210990760 | sai760.be22@chitkara.edu.in |
+| Sambhav Yadav | 2210990774 | sambhav774.be22@chitkara.edu.in |
 
 ---
 
