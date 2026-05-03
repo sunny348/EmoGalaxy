@@ -2,6 +2,22 @@
 
 A real-time emotion detection application that analyzes facial expressions using webcam feed, image uploads, and video analysis.
 
+## 👨‍💻 Project Information
+
+### Project Type
+**Copyright Project**
+
+### Team Members
+
+| Name | Roll Number |
+|---|---|
+| Sanpreet Singh | 2210990790 |
+| Sanidhya Chauhan | 2210990786 |
+| Sai Madhav Bhalla | 2210990760 |
+| Sambhav Yadav | 2210990774 |
+
+---
+
 ## 📚 Table of Contents
 
 - [Emotion AI](#emotion-ai)
@@ -783,7 +799,7 @@ flowchart TD
 
 ## 📜 License
 
-© 2023 Emotion AI | All Rights Reserved
+© 2026 Emotion AI | All Rights Reserved
 
 ---
 
